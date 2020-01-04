@@ -115,3 +115,6 @@ dmypy.json
 
 # Node
 node_modules
+
+# Cuz Macs are weird .-.
+**/.DS_STORE
